@@ -6,11 +6,19 @@
 
 Welcome to my GitHub profile! I'm a passionate web developer with a love for crafting beautiful and efficient digital experiences. Whether it's building responsive websites, creating interactive UIs, or diving deep into the latest web technologies, I'm always up for a challenge.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="400"/>
+</div>
+
 ## 🚀 About Me
 - 🖥️ **Front-End Enthusiast:** I love creating clean, user-friendly interfaces using HTML, CSS, and JavaScript.
 - 🔧 **Back-End Explorer:** I enjoy tinkering with server-side code, databases, and APIs to bring projects to life.
 - 🎨 **Design Lover:** Aesthetic design and intuitive UX are at the heart of everything I create.
 - 🌱 **Continuous Learner:** I'm always learning new things and staying updated with the latest web development trends.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="Rocket GIF" width="200"/>
+</div>
 
 ## 🛠️ My Tech Stack
 - **Front-End:** HTML5, CSS3, JavaScript, React, Vue.js, Bootstrap, Tailwind CSS
@@ -25,9 +33,10 @@ Welcome to my GitHub profile! I'm a passionate web developer with a love for cra
 - 🎮 **[Project Name](#):** A fun and interactive game built with HTML, CSS, and JavaScript.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
 
 ## 📫 Get In Touch
 - **Portfolio:** [yourportfolio.com](#)
