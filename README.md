@@ -1,52 +1,87 @@
-# Hi there, I'm [Your Name] 👋
-
-### 🌐 Web Developer | 💡 Innovator | 🎨 Creative Coder
+<!-- Hero Section -->
+<div align="center" style="background-color:#0d1117; padding: 30px 0; margin-bottom: 20px;">
+  <h1 style="color: #58a6ff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 3em;">
+    Abhianv Chaurasia
+  </h1>
+  <p style="color: #c9d1d9; font-size: 1.5em;">
+    🌐 Web Developer | 💡 Innovator | 🤖 AI Expert | 🎨 Creative Coder
+  </p>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Futuristic Coding GIF" width="600"/>
+</div>
 
 ---
-
-Welcome to my GitHub profile! I'm a passionate web developer with a love for crafting beautiful and efficient digital experiences. Whether it's building responsive websites, creating interactive UIs, or diving deep into the latest web technologies, I'm always up for a challenge.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="400"/>
-</div>
 
 ## 🚀 About Me
-- 🖥️ **Front-End Enthusiast:** I love creating clean, user-friendly interfaces using HTML, CSS, and JavaScript.
-- 🔧 **Back-End Explorer:** I enjoy tinkering with server-side code, databases, and APIs to bring projects to life.
-- 🎨 **Design Lover:** Aesthetic design and intuitive UX are at the heart of everything I create.
-- 🌱 **Continuous Learner:** I'm always learning new things and staying updated with the latest web development trends.
+
+I'm a passionate web developer and AI expert with a love for crafting futuristic and efficient digital experiences. My work spans across building responsive websites, creating interactive UIs, developing AI models, and always staying ahead in the tech game.
+
+- 🖥️ **Front-End Enthusiast:** Crafting clean, user-friendly interfaces with the latest in HTML, CSS, and JavaScript.
+- 🔧 **Back-End Explorer:** Bringing futuristic projects to life with server-side code, databases, and APIs.
+- 🤖 **AI Aficionado:** Pioneering in machine learning, NLP, and intelligent systems.
+- 🎨 **Design Lover:** Aesthetic design and intuitive UX are at the core of my creations.
+- 🌱 **Continuous Learner:** Always embracing the cutting-edge in web development and AI technologies.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="Rocket GIF" width="200"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Animation" width="600"/>
 </div>
-
-## 🛠️ My Tech Stack
-- **Front-End:** HTML5, CSS3, JavaScript, React, Vue.js, Bootstrap, Tailwind CSS
-- **Back-End:** Node.js, Express, Django, Flask
-- **Database:** MongoDB, MySQL, PostgreSQL
-- **Tools:** Git, GitHub, VS Code, Figma, Adobe XD
-- **Other:** RESTful APIs, GraphQL, Docker, AWS
-
-## 🌟 Featured Projects
-- 🖼️ **[Project Name](#):** A stunning portfolio website that showcases my design skills and web development prowess.
-- 💬 **[Project Name](#):** An AI-powered chatbot that enhances user interaction on any website.
-- 🎮 **[Project Name](#):** A fun and interactive game built with HTML, CSS, and JavaScript.
-
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
-## 📫 Get In Touch
-- **Portfolio:** [yourportfolio.com](#)
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)
-- **Twitter:** [twitter.com/yourhandle](#)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-
-## 🎨 Fun Fact
-I’m a huge fan of [your favorite hobby or interest], and when I’m not coding, you’ll probably find me [doing something related to your hobby].
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+## 🛠️ My Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+- 🖼️ **[Stunning Portfolio](#):** Showcasing my futuristic design skills and web development prowess.
+- 💬 **[AI-Powered Chatbot](#):** Enhancing user interaction with intelligent, forward-thinking responses.
+- 🤖 **[Predictive Model](#):** Leveraging AI to predict and personalize user behavior dynamically.
+- 🎮 **[Interactive Game](#):** A fun, futuristic project built with the latest in web technologies.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="AI GIF" width="400"/>
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhianvchaurasia&show_icons=true&theme=radical" alt="Abhianv's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhianvchaurasia&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
+
+---
+
+## 📫 Get In Touch
+
+- **Portfolio:** [yourportfolio.com](#)
+- **LinkedIn:** [linkedin.com/in/abhianvchaurasia](#)
+- **Twitter:** [twitter.com/abhianvhandle](#)
+- **Email:** [abhianv.email@example.com](mailto:abhianv.email@example.com)
+
+---
+
+## 🎨 Fun Fact
+
+When I'm not coding, I'm probably [your favorite hobby or interest], exploring new ideas and concepts!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" alt="Coding Fun GIF" width="300"/>
+</div>
+
+---
+
+⭐️ From [Abhianv Chaurasia](https://github.com/abhianvchaurasia)
